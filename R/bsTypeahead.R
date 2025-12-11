@@ -13,6 +13,7 @@
 #' autocomplete suggestions. You can set it to 0 so suggestion are shown even
 #' when there is no text when lookup function is called.
 #'@seealso \code{\link{updateTypeaheadInput}}
+#'@importFrom shiny tagList
 #'@export
 bsTypeahead <- function(inputId, label, value = "", choices, items = 8, minLength = 1) {
   if(!is.null(choices)) {
