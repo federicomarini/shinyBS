@@ -1,13 +1,13 @@
 #'updateTypeahead
 #'
-#'\code{updateTypeahead} Update a typeaheadInput buttons.
+#'\code{updateTypeahead} Update a bsTypeahead buttons.
 #'@param session The session object passed to function given to shinyServer.
 #'@param inputId Input variable to assign the control's value to
 #'@param label Display label for the control
 #'@param value Initial value
 #'@param choices Array of strings to match against. Can also be JavaScript
 #'  function. Use htmlwidgets::JS() to indicate JavaScript.
-#'@seealso \code{\link{typeaheadInput}}
+#'@seealso \code{\link{bsTypeahead}}
 #'@export
 updateTypeahead<- function(session, inputId, label=NULL, value=NULL, choices=NULL) {
   

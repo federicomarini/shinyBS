@@ -1,6 +1,6 @@
 #'bsTypeahead
 #'
-#'\code{typeaheadInput} creates a textinput with type ahead function buttons.
+#'\code{bsTypeahead} creates a textinput with type ahead function buttons.
 #'
 #'@param inputId Input variable to assign the control's value to
 #'@param label Display label for the control
