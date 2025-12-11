@@ -3,3 +3,4 @@
 man-roxygen
 inst\tests
 README.md
+^\.github$
