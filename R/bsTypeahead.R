@@ -12,8 +12,10 @@
 #'@param minLength The minimum character length needed before triggering
 #' autocomplete suggestions. You can set it to 0 so suggestion are shown even
 #' when there is no text when lookup function is called.
-#'@seealso \code{\link{updateTypeaheadInput}}
+#'@seealso \code{\link{updateTypeahead}}
+#'
 #'@importFrom shiny tagList
+#'
 #'@export
 bsTypeahead <- function(inputId, label, value = "", choices, items = 8, minLength = 1) {
   if(!is.null(choices)) {
