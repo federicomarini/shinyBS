@@ -4,6 +4,8 @@
 #'is where alerts created in your Server logic will be displayed.
 #'
 #'@param anchorId A unique id the identifies the anchor.
+#'@param inline Logical value, determmines the class of the alert. Defaults to
+#'TRUE.
 #'
 #'@templateVar item_name bsAlert
 #'@templateVar family_name Alerts
