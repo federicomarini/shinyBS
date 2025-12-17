@@ -62,7 +62,7 @@ There are eight functions in the Tooltips and Popovers family:
 
 An \code{options} argument has been added to the creation functions to allow
 advanced users more control over how the tooltips and popovers appear. See
-the \href{http://getbootstrap.com}{Twitter Bootstrap 3 documentation} for more
+the \href{https://getbootstrap.com}{Twitter Bootstrap 3 documentation} for more
 details.
 }
 
@@ -122,7 +122,7 @@ app = shinyApp(
 }
 }
 \seealso{
-\href{http://getbootstrap.com}{Twitter Bootstrap 3}
+\href{https://getbootstrap.com}{Twitter Bootstrap 3}
 
 Other Tooltips_and_Popovers: 
 \code{\link{addPopover}()},

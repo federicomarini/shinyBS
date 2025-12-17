@@ -44,7 +44,7 @@ Run \code{bsExample("Modals")} for an example
 of \code{bsModal} functionality.
 }
 \seealso{
-\href{http://getbootstrap.com}{Twitter Bootstrap 3}
+\href{https://getbootstrap.com}{Twitter Bootstrap 3}
 
 Other Modals: 
 \code{\link{Modals}},

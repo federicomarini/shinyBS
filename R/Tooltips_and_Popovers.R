@@ -52,7 +52,7 @@
 #'@section Changes:
 #'An \code{options} argument has been added to the creation functions to allow
 #'advanced users more control over how the tooltips and popovers appear. See
-#'the \href{http://getbootstrap.com}{Twitter Bootstrap 3 documentation} for more
+#'the \href{https://getbootstrap.com}{Twitter Bootstrap 3 documentation} for more
 #'details.
 #'
 #'@examples

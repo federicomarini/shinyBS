@@ -35,7 +35,7 @@ Run \code{bsExample("Collapses")} for an example
 of \code{updateCollapse} functionality.
 }
 \seealso{
-\href{http://getbootstrap.com}{Twitter Bootstrap 3}
+\href{https://getbootstrap.com}{Twitter Bootstrap 3}
 
 Other Collapses: 
 \code{\link{Collapses}},

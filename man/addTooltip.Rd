@@ -41,7 +41,7 @@ Run \code{bsExample("Tooltips_and_Popovers")} for an example
 of \code{addTooltip} functionality.
 }
 \seealso{
-\href{http://getbootstrap.com}{Twitter Bootstrap 3}
+\href{https://getbootstrap.com}{Twitter Bootstrap 3}
 
 Other Tooltips_and_Popovers: 
 \code{\link{Tooltips_and_Popovers}},

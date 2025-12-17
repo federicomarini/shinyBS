@@ -1,4 +1,4 @@
-#'@seealso \href{http://getbootstrap.com}{Twitter Bootstrap 3}
+#'@seealso \href{https://getbootstrap.com}{Twitter Bootstrap 3}
 #'
 #'@note
 #' Run \code{bsExample("<%=family_name %>")} for an example

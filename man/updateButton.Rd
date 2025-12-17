@@ -56,7 +56,7 @@ Run \code{bsExample("Buttons")} for an example
 of \code{updateButton} functionality.
 }
 \seealso{
-\href{http://getbootstrap.com}{Twitter Bootstrap 3}
+\href{https://getbootstrap.com}{Twitter Bootstrap 3}
 
 Other Buttons: 
 \code{\link{Buttons}},

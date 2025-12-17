@@ -25,7 +25,7 @@ Run \code{bsExample("Alerts")} for an example
 of \code{bsAlert} functionality.
 }
 \seealso{
-\href{http://getbootstrap.com}{Twitter Bootstrap 3}
+\href{https://getbootstrap.com}{Twitter Bootstrap 3}
 
 Other Alerts: 
 \code{\link{Alerts}},

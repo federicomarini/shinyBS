@@ -101,7 +101,7 @@ app = shinyApp(
 }
 }
 \seealso{
-\href{http://getbootstrap.com}{Twitter Bootstrap 3}
+\href{https://getbootstrap.com}{Twitter Bootstrap 3}
 
 Other Modals: 
 \code{\link{bsModal}()},
