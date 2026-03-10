@@ -29,9 +29,7 @@ $.extend(shinyBS.inputBindings.modal, {
     return $(el).hasClass("in");
   },
   subscribe: function(el, callback) {
-    $(el).on("hidden.bs.modal shown.bs.modal", function () {
-      callback(true);
-    })
+    $(el).on("hidden.bs.modal shown.bs.modal", () => callback(true));
   },
   unsubscribe: function(el) {
     $(el).off("hidden.bs.modal shown.bs.modal")
