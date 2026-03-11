@@ -5,3 +5,4 @@ inst\tests
 README.md
 ^\.github$
 ^revdep$
+^cran-comments\.md$
